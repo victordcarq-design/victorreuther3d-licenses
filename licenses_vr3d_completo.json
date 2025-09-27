@@ -1,0 +1,55 @@
+{
+  "emails": [
+    "victorreuther3d@gmail.com",
+    "alexandre_silva1289@hotmail.com",
+    "fscosta3@gmail.com",
+    "victordc99@gmail.com",
+    "eduardomotaarq@gmail.com",
+    "renatofukuda@hotmail.com",
+    "brendo611@gmail.com",
+    "ruankifer@gmail.com",
+    "kdprojetos@outlook.com",
+    "walterhavieras@gmail.com",
+    "raelgf@gmail.com",
+    "matheusarquiteturapvl@gmail.com",
+    "julielsonmartins.arq@gmail.com",
+    "gabriellamariana11@gmail.com",
+    "benonino.neto@gmail.com",
+    "cnstudio3d@gmail.com",
+    "marcio.desenho@gmail.com",
+    "thamiira@gmail.com",
+    "andrephillipepro@gmail.com",
+    "tonynho_pe@hotmail.com",
+    "gabrielportes.arq@gmail.com",
+    "evertonmalaquias1@gmail.com",
+    "pedro.hsj10@gmail.com",
+    "andersonturmina@gmail.com",
+    "dmetriu.arq@gmail.com",
+    "matheusrenders@gmail.com",
+    "contato@carotiniarquitetura.com.br",
+    "kronos.3dvisual@gmail.com",
+    "arq.adilsonmoura@gmail.com",
+    "brunohsanti@hotmail.com",
+    "pixelstudio3d@hotmail.com",
+    "lucasfvm@hotmail.com"
+  ],
+  "script_info": {
+    "name": "VR3D Light Tools",
+    "version": "3.01",
+    "developer": "Victor Reuther",
+    "instagram": "@victorreuther3d",
+    "description": "Script de Iluminação para 3ds Max"
+  },
+  "system_info": {
+    "total_licenses": 32,
+    "created_date": "2025-09-27",
+    "last_updated": "2025-09-27",
+    "system_version": "2.0",
+    "license_type": "universal"
+  },
+  "notes": {
+    "usage": "Para adicionar novos clientes, inclua o email na lista 'emails' acima",
+    "format": "Mantenha sempre o formato JSON com aspas duplas e vírgulas",
+    "backup": "Faça backup antes de grandes alterações"
+  }
+}
